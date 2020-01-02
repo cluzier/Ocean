@@ -1,0 +1,24 @@
+{
+    "name": "ocean",
+    "displayName": "Ocean",
+    "description": "A dark blue theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "cluzier",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cluzier/Ocean"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Ocean",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Ocean-color-theme.json"
+        }]
+    }
+}
