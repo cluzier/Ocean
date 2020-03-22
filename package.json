@@ -2,7 +2,7 @@
     "name": "ocean",
     "displayName": "Ocean",
     "description": "A dark blue theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cluzier",
     "engines": {
         "vscode": "^1.41.0"
