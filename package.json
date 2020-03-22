@@ -15,10 +15,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Ocean",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Ocean-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ocean-color-theme.json"
+            }
+        ]
     }
 }
